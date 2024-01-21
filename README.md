@@ -13,6 +13,8 @@ In the world of minecraft you need food to survive. And to solve the world hunge
 
 - Place the turtle in middle, facing the farming dirt. Fill in some coal and potatoes, for fuel and planting.
 
+![farm layout](https://github.com/ShaikhMFazaluddin/cc-turtle-potato-farm/blob/master/images/2024-01-21_18.23.11.png?raw=true)
+
 - Download the file from [Pastebin](https://pastebin.com/JGEWJwGR) in the turtle using the command and run the file.
 
 ```bash
